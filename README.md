@@ -28,4 +28,6 @@ Tests
 -   reason : to confirm the application is functional
 -Search
   reason: to confirm the user can search for articles
+-open article
+  reason  to confirm the user can acceess to the webview article
 
