@@ -1,2 +1,4 @@
 node_modules
-allure-report
+#Report Layer
+allure-results/
+allure-report/
