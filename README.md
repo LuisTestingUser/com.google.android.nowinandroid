@@ -13,5 +13,19 @@ reason : Dynamic and versatile language
 -Visual Studio Code
 reason LPowerful and customizable IDE: VS Code provides an excellent development environment for test automation, with features like debugging, IntelliSense, and Git integration.
 -Android Studio Code
-reason : to test the application in a virutal  device and different android versions
+reason : to test the application in a virutal  device and different android versions.
+
+Tests
+- verify main pages elements.
+-   reason : 1st impression matters, so if end-user do not get a good impression probably is not going to back to the application, so thats why  i build this test
+- veirfy Saved article in main pages and some elements to be hidden after an artilc is selected.
+-   reason :  to confirm the application saved user interested articles
+- moved to interest tab, and confirm the list displayed
+-   reason : to confirm the user can view what he selected as interested
+- verify scrollable elements are scrollabke
+-   reason : to confirm user can view all the avialable options/articles
+- verified clickable elements are clickabke
+-   reason : to confirm the application is functional
+-Search
+  reason: to confirm the user can search for articles
 
