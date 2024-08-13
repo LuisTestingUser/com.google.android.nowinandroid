@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[@resource-id=\"interests:topics\"]//android.widget.TextView"
-}
