@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.TextView[@text=\"Virtual Machine as a core Android Primitive\"]"
+}

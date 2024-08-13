@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiScrollable(new UiSelector().scrollable(true).instance(0)).setAsHorizontalList().scrollTextIntoView(\"Android TV\")"
+}
